@@ -6,8 +6,9 @@ var KatakanaTable = `	a	i	u	e	o	n
 x	ァ	ィ	ゥ	ェ	ォ
 k	カ	キ	ク	ケ	コ
 ky	キャ		キュ		キョ
-s	サ		ス	セ	ソ
+s	サ	シ	ス	セ	ソ
 sh	シャ	シ	シュ	シェ	ショ
+sy	シャ	シ	シュ	シェ	ショ
 t	タ	ティ	ツ	テ	ト
 ts			ツ
 ch	チャ	チ	チュ	チェ	チョ
